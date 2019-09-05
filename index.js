@@ -3,7 +3,7 @@
 class Breakfast {
   
   
-  constructor 
+  constructor (eggs)
   this.eggs = eggs
   
 }
