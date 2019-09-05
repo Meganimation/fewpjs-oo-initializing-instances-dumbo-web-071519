@@ -24,8 +24,8 @@ class Dinner {
     constructor(food, drink) {
   this.salad = salad
   this.soup = soup
-  this.drink = drink
-   this.drink = drink
+  this.entree = entree
+   this._dessert = dessert
   }
   
 }
